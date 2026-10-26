@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Dream. I'm a Software engineer and Programmer Analyst with experience developing full-stack applications, enterprise automation solutions, data workflows, and business intelligence tools. Experienced with **Python, Django, SQL, REST APIs, Salesforce, Tableau, Azure, and CI/CD**, with a focus on building practical systems that reduce manual processes and improve access to operational information.
+
+Currently pursuing a Master of Science in Computer Science & Artificial Intelligence at Boston University to deepen my knowledge of computer science, software systems, and AI. My professional interests center on combining software engineering, data, automation, and artificial intelligence to build reliable systems that support better business processes and human decision-making.
+
 <!--
 **atramirez7/atramirez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
